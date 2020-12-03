@@ -1,0 +1,72 @@
+
+
+h1{
+	text-transform: capitalize;
+	color: orange;
+	background-color: brown;
+	text-align: center;
+}
+
+p{
+	margin-left: 50px;
+	margin-right: 50px;
+	color: black;
+	text-align: justify;
+	
+}
+
+
+
+
+/* piunto = clase */
+.titles-principales{
+	font-size: 40px
+	color: lime;
+	border: dashed;
+	border color: blue;
+	text-transform: uppercase;
+	text-align: center;
+}
+
+.subtitulos{
+	font-size: 30px
+	color: black;
+	text-transform: capitalize;
+	text-align: center;
+}
+
+}
+
+
+.imagenborder{
+
+	border: solid;
+
+}
+
+/* por medio de un ID, el hashtag indica que esto es un ID*/
+#agenda, #agenda tr td,#agenda tr th{
+	border: solid;
+	border-color: red;
+	border-radius: 20%
+
+}
+
+
+/* Pagina de moviles*/
+
+.moviles{
+display: flex;
+margin: 10px;
+border: dashed;
+border-color: red;
+background-color: lime;
+border-radius: 10%;
+padding: 10px;
+
+}
+
+.moviles img{
+	width: 100px;
+
+}
