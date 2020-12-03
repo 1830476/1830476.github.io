@@ -1,0 +1,55 @@
+.titulos{
+	font-style: black;
+	font-size: 25px;
+	line-height: 15px; 
+	font-family: 'Arial';
+}
+
+.parr{
+	font-family: ;
+	font-size: 15px;
+}
+
+.bor{
+display: flex;
+margin: 10px;
+border: dashed;
+border-color: black;
+background-color: ;
+border-radius: 10%;
+padding: 10px;
+
+}
+.ima img{
+	width: 20px;
+	border-spacing: 5;
+	object-fit: cover;
+	object-position: center;
+
+}
+body{
+	background-color: #364D4D;
+}
+
+
+header{
+background-color: #4C6B6B;
+
+}
+
+main{
+
+	background-color: #4C6B6B;
+	size: 50;
+}
+
+footer{
+
+	background-color:#4C6B6B; 
+}
+
+body{
+margin-right: 100px;
+margin-left: 100px;
+
+}
